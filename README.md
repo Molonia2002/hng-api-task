@@ -35,7 +35,7 @@ This API is publicly available at:
 https://hng-api.onrender.com/
 
 Related Links
-HNG Node.js Developers
+(https://hng.tech/hire/python-developers)
 yaml
 
 
